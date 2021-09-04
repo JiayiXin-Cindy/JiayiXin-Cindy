@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JiayiXin-Cindy
-- 👀 I’m interested in painting, Ghibli, peanutbutter on apple, monkeys
-- 🌱 I’m currently learning the nitty-gritty of computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in... art, Studio Ghibli, peanutbutter on apple, and monkeys
+- 🌱 I’m currently learning... from the masters.
+- 💞️ I’m looking to collaborate on... making the world a better place.
+- 📫 How to reach me... with Doraemon‘s dimension door.
 
 <!---
 JiayiXin-Cindy/JiayiXin-Cindy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
